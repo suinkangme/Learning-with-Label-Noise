@@ -1,4 +1,4 @@
-## COMP 433(Deep Learning) Project 
+# COMP 433(Deep Learning) Project 
 Developing a robust CNN model to address the challenge of learning with label noise.
 
 Dataset : CIFAR-10 dataset images
