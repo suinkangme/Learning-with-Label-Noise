@@ -1,2 +1,8 @@
 ## COMP 433(Deep Learning) Project 
-Build a robust CNN model to overcome challenge(Learning with Label Noise)
+Developing a robust CNN model to address the challenge of learning with label noise.
+
+Dataset : CIFAR-10 dataset images
+
+1. Add Symmetric label noise/ Asymmetric label noise
+
+2. Train the model 
