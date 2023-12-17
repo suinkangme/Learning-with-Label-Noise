@@ -19,21 +19,21 @@
 <p>
 Developing a robust CNN model to address the challenge of learning with label noise.
 </p>
+<br>
 
-<h4>Training Dataset</h4>
+<h4> Dataset </h4>
 <p>
-CIFAR-10 dataset images
+CIFAR-10 dataset (images)
 </p>
 <br>
 
 <h4>Noise Injection</h4>
-
 <p>
 Add Symmetric label noise OR Asymmetric label noise
 </p>
 
+<br>
 <h4>Baseline Model</h4>
-
 
 <h3> Two Robust Model Approaches </h3>
 <br>
@@ -68,11 +68,12 @@ Add Symmetric label noise OR Asymmetric label noise
           <strong> How To Test?</strong>
           <ul>
               <li></li>
-              <li></li>       
+              <li></li> 
+              <li></li>   
           </ul>
       </li>
   </ul>
   <br>
 
-<h3> Related Literature </h3>
+<h3> [ Related Literature ] </h3>
 
