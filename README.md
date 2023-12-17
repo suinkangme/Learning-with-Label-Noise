@@ -15,7 +15,7 @@
 
 <br>
 
-<h3>[ Description of the project ]</h3>\
+<h3>[ Description of the project ]</h3>
 <p>
 Developing a robust CNN model to address the challenge of learning with label noise.
 </p>
