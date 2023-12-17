@@ -1,4 +1,4 @@
-# COMP 433(Deep Learning) Project 
+# COMP 433 (Deep Learning) Project 
 
 <h3>[ Duration ]</h3>
 - September 22nd, 2023 to December 18th, 2023 (2023 FALL, Concordia University)
