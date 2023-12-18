@@ -77,18 +77,18 @@ Add Symmetric label noise OR Asymmetric label noise
   <br>
 
 <h3> [ Related Literature ] </h3>
-Weight initialization techniques for deep learning algorithms in remote sensing: Recent trends and future perspectives. <br>
-https://arxiv.org/abs/2102.07004v1 <br>
+Weight initialization techniques for deep learning algorithms in remote sensing: Recent trends and future perspectives. 
+https://arxiv.org/abs/2102.07004v1 <br><br>
 
-Loss functions and metrics in deep learning. <br>
-https://arxiv.org/abs/2307.02694 <br>
+Loss functions and metrics in deep learning. 
+https://arxiv.org/abs/2307.02694 <br><br>
 
-Normalized loss functions for deep learning with noisy labels. <br>
-https://arxiv.org/abs/2006.13554 <br>
+Normalized loss functions for deep learning with noisy labels.
+https://arxiv.org/abs/2006.13554 <br> <br>
 
-Co-teaching: Robust training of deep neural networks with extremely noisy labels. <br>
-https://arxiv.org/abs/1804.06872 <br>
+Co-teaching: Robust training of deep neural networks with extremely noisy labels.
+https://arxiv.org/abs/1804.06872 <br> <br>
 
-Learning to reweight examples for robust deep learning. <br>
-https://arxiv.org/abs/1803.09050 <br>
+Learning to reweight examples for robust deep learning. 
+https://arxiv.org/abs/1803.09050 <br><br>
 
