@@ -35,7 +35,7 @@ Add Symmetric label noise OR Asymmetric label noise
 <br>
 
 
-<h3> [Two Robust Model Approaches ]</h3>
+<h3> [ Two Approaches to build the Robust Model ]</h3>
 
 <h4>| Baseline Model | </h4>
 <p>
