@@ -23,7 +23,7 @@ Developing a robust CNN model to address the challenge of learning with label no
 
 <h4> | Dataset | </h4>
 <p>
-1. CIFAR-10 dataset (images)
+1. CIFAR-10 dataset (images) <br>
 2. MNIST
 </p>
 <br>
@@ -77,4 +77,18 @@ Add Symmetric label noise OR Asymmetric label noise
   <br>
 
 <h3> [ Related Literature ] </h3>
+Weight initialization techniques for deep learning algorithms in remote sensing: Recent trends and future perspectives. <br>
+https://arxiv.org/abs/2102.07004v1 <br>
+
+Loss functions and metrics in deep learning. <br>
+https://arxiv.org/abs/2307.02694 <br>
+
+Normalized loss functions for deep learning with noisy labels. <br>
+https://arxiv.org/abs/2006.13554 <br>
+
+Co-teaching: Robust training of deep neural networks with extremely noisy labels. <br>
+https://arxiv.org/abs/1804.06872 <br>
+
+Learning to reweight examples for robust deep learning. <br>
+https://arxiv.org/abs/1803.09050 <br>
 
