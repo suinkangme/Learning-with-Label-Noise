@@ -32,11 +32,11 @@ Developing a robust CNN model to address the challenge of learning with label no
 <p>
 Add Symmetric label noise OR Asymmetric label noise
 </p>
-
-<h3> Two Robust Model Approaches </h3>
 <br>
 
-<br>
+
+<h3> [Two Robust Model Approaches ]</h3>
+
 <h4>| Baseline Model | </h4>
 <p>
 The BaselineModel is a robust CNN with convolutional, activation, and max-pooling layers that process input channels to output 32x32x8. It employs Xavier initialization to enhance training stability and mitigate gradient vanishing or exploding risks, ultimately yielding 10 output classes for CIFAR-10 categories in its final layer.  
