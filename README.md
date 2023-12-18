@@ -28,7 +28,7 @@ Developing a robust CNN model to address the challenge of learning with label no
 </p>
 <br>
 
-<h4>Noise Injection</h4>
+<h4>| Noise Injection| </h4>
 <p>
 Add Symmetric label noise OR Asymmetric label noise
 </p>
@@ -39,13 +39,13 @@ Add Symmetric label noise OR Asymmetric label noise
 <h3> Two Robust Model Approaches </h3>
 <br>
 
-<h4> Approach 1. Baseline Model + APL </h4>
+<h4> | Approach 1. Baseline Model + APL | </h4>
 <p>
    explaination
 </p>
 <br>
 
-<h4> Approach 2. Baseline Model + Dynamic Weight </h4>
+<h4> | Approach 2. Baseline Model + Dynamic Weight | </h4>
 <p>
    explaination
 </p>
