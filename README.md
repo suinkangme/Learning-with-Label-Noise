@@ -21,9 +21,10 @@ Developing a robust CNN model to address the challenge of learning with label no
 </p>
 <br>
 
-<h4> Dataset </h4>
+<h4> | Dataset | </h4>
 <p>
-CIFAR-10 dataset (images)
+1. CIFAR-10 dataset (images)
+2. MNIST
 </p>
 <br>
 
@@ -33,18 +34,18 @@ Add Symmetric label noise OR Asymmetric label noise
 </p>
 
 <br>
-<h4>Baseline Model</h4>
+<h4>| Baseline Model | </h4>
 
 <h3> Two Robust Model Approaches </h3>
 <br>
 
-<h4> Baseline Model + APL </h4>
+<h4> Approach 1. Baseline Model + APL </h4>
 <p>
    explaination
 </p>
 <br>
 
-<h4> Baseline Model + Dynamic Weight </h4>
+<h4> Approach 2. Baseline Model + Dynamic Weight </h4>
 <p>
    explaination
 </p>
