@@ -41,13 +41,14 @@ Add Symmetric label noise OR Asymmetric label noise
 
 <h4> | Approach 1. Baseline Model + APL | </h4>
 <p>
-   explaination
+   APL incorporates both Active Loss, which corrects labels for samples with noise, and Passive Loss, which performs regular training. This combination helps the model mitigate the influence of noise, maintaining high performance.
 </p>
 <br>
 
 <h4> | Approach 2. Baseline Model + Dynamic Weight | </h4>
 <p>
-   explaination
+  This approach involves applying dynamic weights to samples, enabling the model to adapt sensitively to samples with high noise levels. By employing dynamic weights for specific samples, the model can focus more on samples with accurate labels while responding more sensitively to samples with considerable noise.
+
 </p>
 <br>
 
