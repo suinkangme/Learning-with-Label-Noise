@@ -28,7 +28,7 @@ Developing a robust CNN model to address the challenge of learning with label no
 </p>
 <br>
 
-<h4>| Noise Injection| </h4>
+<h4>| Noise Injection | </h4>
 <p>
 Add Symmetric label noise OR Asymmetric label noise
 </p>
