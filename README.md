@@ -90,6 +90,6 @@ https://arxiv.org/abs/2006.13554 <br> <br>
 Co-teaching: Robust training of deep neural networks with extremely noisy labels.
 https://arxiv.org/abs/1804.06872 <br> <br>
 
-Learning to reweight examples for robust deep learning. 
+Learning to reweight examples for robust deep learning. <br>
 https://arxiv.org/abs/1803.09050 <br><br>
 
