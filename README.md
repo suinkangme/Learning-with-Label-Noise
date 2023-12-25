@@ -12,15 +12,6 @@
 <br>
 <br>
 
-<h3>[ Team ]</h3>
-
-| NAME |
-| --- | 
-| Suin Kang |
-| Deokyeong Kim | 
-
-<br>
-
 <h3>[ Description of the project ]</h3>
 <p>
 Developing a robust CNN model to address the challenge of learning with label noise.
