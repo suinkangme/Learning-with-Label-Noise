@@ -57,30 +57,6 @@ The BaselineModel is a robust CNN with convolutional, activation, and max-poolin
 </p>
 <br>
 
-<h3>[ Instructions on how to train/test the models ]</h3>
-  
- <p>All notebooks were written in Google Colab and are intended for use in Google Colab only.</p>
-
-  <ul>
-      <li>
-          <strong> How To Train? </strong> 
-          <ul>
-              <li> Run the required libraries </li>
-              <li> </li>
-              <li> </li>
-          </ul>
-      </li>
-      <br>
-      <li>
-          <strong> How To Test?</strong>
-          <ul>
-              <li></li>
-              <li></li> 
-              <li></li>   
-          </ul>
-      </li>
-  </ul>
-  <br>
 
 <h3> [ Related Literature ] </h3>
 Weight initialization techniques for deep learning algorithms in remote sensing: Recent trends and future perspectives. <br>
