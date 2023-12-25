@@ -1,4 +1,4 @@
-# Effect of Using APL(Active Passive Loss) and Dynamic Weights into Samples on Noise Label Dataset
+## Effect of Using APL(Active Passive Loss) and Dynamic Weights into Samples on Noise Label Dataset
 
 <h3>[ Duration ]</h3>
 - September 22nd, 2023 to December 18th, 2023 (2023 FALL, Concordia University)
