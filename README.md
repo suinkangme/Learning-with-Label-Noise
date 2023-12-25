@@ -1,4 +1,4 @@
-# COMP 433 (Deep Learning) Project 
+# Effect of using APL(Active Passive Loss) and Dynamic Weights into Samples on Noise Label Dataset
 
 <h3>[ Duration ]</h3>
 - September 22nd, 2023 to December 18th, 2023 (2023 FALL, Concordia University)
@@ -6,12 +6,18 @@
 <br>
 <br>
 
+<h3>[ Course ]</h3>
+- COMP 433 : Deep Learning
+
+<br>
+<br>
+
 <h3>[ Team ]</h3>
 
-| NAME | ID | 
-| --- |  --- | 
-| Suin Kang | 40129337 | 
-| Deokyeong Kim | 26942105 | 
+| NAME |
+| --- | 
+| Suin Kang |
+| Deokyeong Kim | 
 
 <br>
 
